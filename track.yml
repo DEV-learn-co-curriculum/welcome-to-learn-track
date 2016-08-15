@@ -1,0 +1,47 @@
+---
+track:
+    title: Welcome to Learn
+    uuid: e65f0523-7b8c-4284-8f27-ddffdf1ec76e
+    topics:
+    -   title: Welcome
+        uuid: 560d76cd-cc0b-496b-a878-0deec71c2028
+        units:
+        -   title: Getting Started
+            uuid: 6635f7ea-10cb-403d-8a12-104d981a76ee
+            lessons:
+            -   title: Welcome to Learn 1 (Test)
+                uuid: 731020c7-f7fb-4824-8394-d5d7b7399646
+                contents:
+                -   title: Welcome To Learn 1 Test
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-1-test
+                    uuid: b37f80b0-803c-4882-993d-41061e4246f1
+            -   title: Welcome to Learn 2 (Test)
+                uuid: d36e87c6-1c0f-45e5-b651-7b936af1e2e6
+                contents:
+                -   title: Welcome To Learn 2 Test
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-2-test
+                    uuid: 0d8a0d83-4423-4666-8d85-459440e0386d
+            -   title: Welcome to Learn 3 (Test)
+                uuid: 7e032903-bfe7-4175-a295-1e48b2592d1e
+                contents:
+                -   title: Welcome To Learn 3 Test
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-3-test
+                    uuid: bb560394-cf63-46a4-b935-e33c1c573472
+            -   title: Welcome to Learn 4 (Test)
+                uuid: 148dd477-9124-4989-a761-1edd17498156
+                contents:
+                -   title: Welcome To Learn 4 Test
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-4-test
+                    uuid: 1823e415-db01-4128-b282-796074742aaa
+            -   title: Welcome to Learn 5 (Test)
+                uuid: f198d0da-a92f-44ed-aa0b-d5568b25155e
+                contents:
+                -   title: Welcome To Learn 5 Test
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-5-test
+                    uuid: 656515cb-2124-4ab6-baea-cbb6c56a8306
+            -   title: New Learn Lesson for Button Testing
+                uuid: 7cf6a989-65ad-42f6-9214-44e6b02a0ac4
+                contents:
+                -   title: New Learn Lesson For Button Testing
+                    source: https://github.com/DEV-learn-co-curriculum/new-learn-lesson-for-button-testing
+                    uuid: 8d4788de-5dd8-44ea-8334-440874fc6990
